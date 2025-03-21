@@ -16,9 +16,14 @@ torniamo a scrivere in italiano
 proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 Buon lavoro e buon divertimento! :faccia_leggermente_sorridente: (modificato) 
 -------------------------------------------------------------------------------------
-email
+Email
 -crea una lista di email
 -crea un pront per la tua email
 creo variabile di appoggio del risultato
 -controlla l'email immessa con quella dell array
 -stampa mex di approvazione o meno dell'email con ciclo for
+
+Gioco dei dadi
+genera numero random da 1 a 6 per il giocatore
+genera numero random da 1 a 6 per il computer
+confronta questi due valori: il più alto vince 
