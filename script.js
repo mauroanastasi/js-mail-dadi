@@ -20,3 +20,17 @@
 // console.log(`non hai il permesso di accedere alla festa :(`)
 // ---------------------------------------------------------------------------------------------------------------------------
 
+let numberUser = Math.floor(Math.random() * 6) + 1;
+console.log(numberUser)
+let numberComputer = Math.floor(Math.random() * 6) + 1;
+console.log(numberComputer)
+
+if(numberUser>numberComputer){
+    console.log(`Hai vinto compplimenti sei un vero/a pro`)
+}
+else if(numberComputer>numberUser){
+    console.log(`AAAARRRRGH HO VINTO CONQUISTERO' IL MONDO (hai perso il computer ti ha sopraffatto)` )
+}
+else{
+    console.log(`oh noooo...state combattendo una battaglia che non finirà mai`)
+}
