@@ -26,4 +26,4 @@ creo variabile di appoggio del risultato
 Gioco dei dadi
 genera numero random da 1 a 6 per il giocatore
 genera numero random da 1 a 6 per il computer
-confronta questi due valori: il più alto vince 
+confronta questi due valori: il più alto vincee
