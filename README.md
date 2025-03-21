@@ -19,5 +19,6 @@ Buon lavoro e buon divertimento! :faccia_leggermente_sorridente: (modificato)
 email
 -crea una lista di email
 -crea un pront per la tua email
+creo variabile di appoggio del risultato
 -controlla l'email immessa con quella dell array
 -stampa mex di approvazione o meno dell'email con ciclo for
