@@ -10,3 +10,12 @@ for(i=0; result === false && i<emailGroup.length; i++){
         result = true;
     
     }
+
+// risultato
+}
+if(result == true)
+    console.log(`${yourEmail} è un email registrata per la festa!! Buon divertimento`)
+
+else
+console.log(`non hai il permesso di accedere alla festa :(`)
+
